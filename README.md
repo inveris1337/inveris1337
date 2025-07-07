@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/Ji_EAW5ZvdMAAAAd/hatsune-miku-hi.gif" width="400"/>
+  <img src="https://media1.tenor.com/m/Ji_EAW5ZvdMAAAAd/hatsune-miku-hi.gif" width="500"/>
   <br>
   <b>hi no name stalker :3</b>
 </p>
